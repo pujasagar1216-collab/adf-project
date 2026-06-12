@@ -1,0 +1,15 @@
+{
+	"name": "adf-course-narashiman",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "edaf2f37-e3fb-4f52-986c-4c5916794621",
+		"tenantId": "1800f53f-6668-48b7-a150-ad4b467793a7"
+	}
+}
